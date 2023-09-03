@@ -1,11 +1,6 @@
 # Employee_Turnover_Prediction
 Classification, predictive analytics
 
-Aim : Identify the key factors that make certain employees more prone to leaving and understand the motivations behind their decisions.
-Models used : Logistic Regression, KNN, Random Forest
-Conclusion : Satisfaction Score, Performance Review Score, Average Hours Worked per Month, and Tenure are the most crucial variables to consider when developing strategies to reduce churn and improve overall employee retention.
-Source : https://www.kaggle.com/datasets/marikastewart/employee-turnover
-
 ## Project Overview
 * Identified the key factors behind employee turnover through EDA and Feature importance and made suggestion based on the findings.
 * Executed diverse models such as Logistic Regression, KNN Classifier and Random Forest to identify key predictors.
